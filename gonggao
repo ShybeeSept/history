@@ -1,1 +1,12 @@
-公告测试
+[
+  {
+    "id": "2026-04-26-v2-release",
+    "title": "拾穗 v2.0 正式发布",
+    "content": "## 重大更新\n\n### 新功能\n- 公告中心上线\n- 支持Markdown格式公告\n\n### 改进\n- 优化首页布局\n- 提升加载速度",
+    "summary": "拾穗 v2.0 正式发布，新增公告中心等重大功能",
+    "type": "update",
+    "version": "2.0",
+    "publish_date": 1745644800000,
+    "is_pinned": true
+  }
+]
